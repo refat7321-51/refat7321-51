@@ -1,19 +1,35 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+Refat!+%F0%9F%91%8B;Aspiring+Backend+Developer+%F0%9F%9A%80;Python+%26+Django+Learner+%F0%9F%90%8D;Consistency+Over+Motivation+%E2%9A%A1" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<h3 align="center">💜 Building Real-World Projects | Focused on Backend & Django</h3>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a0033"/>
+      <stop offset="50%" style="stop-color:#4b0082"/>
+      <stop offset="100%" style="stop-color:#6a0dad"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#bg)" rx="15"/>
+  <text x="400" y="90" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Md Jawwad Bin Kaysar Refat</text>
+  <text x="400" y="135" font-family="Arial, sans-serif" font-size="18" fill="#d8b4fe" text-anchor="middle">AI Product Manager | Researcher | Builder</text>
+  <text x="400" y="168" font-family="Arial, sans-serif" font-size="14" fill="#c084fc" text-anchor="middle">Python &amp; Django Learner | Backend-Focused Web Developer</text>
+</svg>
 
-<p align="center">
-  <a href="https://refat7321-51.github.io/My-Website/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.facebook.com/share/1ESkoL8mNe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=refat7321-51&color=A855F7&style=flat-square&label=Profile+Views"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Aspiring+Backend+Developer;Python+%26+Django+Enthusiast;Building+Real-World+Projects;Consistency+Over+Motivation" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://refat7321-51.github.io/My-Website/"><img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/share/1ESkoL8mNe/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=refat7321-51&color=A855F7&style=flat-square&label=Profile+Views"/>
+
+</div>
 
 ---
 
@@ -67,3 +83,8 @@ My goal is to become a **professional backend-focused web developer**. I am also
   <img src="https://streak-stats.demolab.com/?user=refat7321-51&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 </p>
 
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=refat7321-51&color=A855F7&style=flat-square&label=Profile+Views"/>
+</div>
