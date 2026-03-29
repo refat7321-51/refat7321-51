@@ -10,8 +10,8 @@
   </defs>
   <rect width="800" height="200" fill="url(#bg)" rx="15"/>
   <text x="400" y="90" font-family="Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle">Md Jawwad Bin Kaysar Refat</text>
-  <text x="400" y="135" font-family="Arial, sans-serif" font-size="18" fill="#d8b4fe" text-anchor="middle">AI Product Manager | Researcher | Builder</text>
-  <text x="400" y="168" font-family="Arial, sans-serif" font-size="14" fill="#c084fc" text-anchor="middle">Python &amp; Django Learner | Backend-Focused Web Developer</text>
+  <text x="400" y="135" font-family="Arial, sans-serif" font-size="18" fill="#d8b4fe" text-anchor="middle">Aspiring Backend Developer | Python &amp; Django Learner</text>
+  <text x="400" y="168" font-family="Arial, sans-serif" font-size="14" fill="#c084fc" text-anchor="middle">Building Real-World Projects | Consistency Over Motivation ⚡</text>
 </svg>
 
 <br/>
@@ -34,7 +34,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
 ```python
 class Refat:
     name     = "Md Jawwad Bin Kaysar Refat"
@@ -82,9 +81,3 @@ My goal is to become a **professional backend-focused web developer**. I am also
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=refat7321-51&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7"/>
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=refat7321-51&color=A855F7&style=flat-square&label=Profile+Views"/>
-</div>
