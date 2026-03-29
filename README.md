@@ -1,74 +1,104 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&pause=99999&color=FFFFFF&background=7C3AED&center=true&vCenter=true&width=800&height=120&lines=Md+Jawwad+Bin+Kaysar+Refat" alt="Name Banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=99999&color=E9D5FF&background=5B21B6&center=true&vCenter=true&width=800&height=50&lines=Aspiring+Backend+Developer+%7C+Python+%26+Django+Learner" alt="Subtitle"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Building+Real-World+Projects+%F0%9F%9A%80;Python+%26+Django+Enthusiast+%F0%9F%90%8D;Exploring+Cybersecurity+%F0%9F%94%90;Consistency+Over+Motivation+%E2%9A%A1" alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://refat7321-51.github.io/My-Website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESkoL8mNe/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg==)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=refat7321-51&color=7C3AED&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md%20Jawwad%20Bin%20Kaysar%20Refat&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Python%20%26%20Django%20Learner&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESkoL8mNe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg==)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://refat7321-51.github.io/My-Website/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
 
 ```python
 class Refat:
     name     = "Md Jawwad Bin Kaysar Refat"
-    role     = "Aspiring Backend Developer"
-    learning = ["Python", "Django", "Cybersecurity"]
-    focus    = "Building real-world projects, not just theory"
+    role     = "Aspiring Backend Web Developer"
+    education = "Computer Science & Technology (Diploma)"
+    focus    = ["Python", "Django", "Web Development"]
+    interest = ["Backend Dev", "Cybersecurity"]
     motto    = "Consistency over motivation. Skill over excuses."
-    goal     = "Professional Backend-Focused Web Developer"
+    
+    def current_goal(self):
+        return "Building real-world projects with Django 🚀"
 ```
 
-I am a **Computer Science & Technology diploma student** with a strong focus on web development. Currently building skills in **Python** and **Django** to develop scalable web applications.
-
-I don't just learn theory — I focus on **building real projects**. I have already worked on basic web projects using HTML, CSS, and Django, and I am continuously pushing myself to level up.
-
-My goal is to become a **professional backend-focused web developer**. I am also exploring **cybersecurity** as a parallel interest.
-
-> 💜 *"Consistency over motivation. Skill over excuses. Every day, I try to improve."*
+> 🎯 I don't just learn theory — I focus on building **real projects** and improving my **practical problem-solving skills**.  
+> 💡 Exploring **Cybersecurity** as a parallel interest to strengthen my technical foundation.  
+> 📈 Every day, I try to improve — even if it's a small step.
 
 ---
 
-## 🛠️ Skills & Tech Stack
+## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=refat7321-51&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=refat7321-51&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔨 Building backend projects with **Django**
+- 📚 Deepening knowledge in **Python** & **REST APIs**
+- 🔐 Exploring the world of **Cybersecurity**
+- 🌐 Improving my **Full Stack** skills step by step
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**Open to collaborations, project ideas, and learning together!**
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=refat7321-51&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
+
+</div>
