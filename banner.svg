@@ -31,11 +31,7 @@
       <rect width="860" height="160" rx="12"/>
     </clipPath>
   </defs>
-
-  <!-- Main background -->
   <rect width="860" height="160" fill="url(#bg)" rx="12"/>
-
-  <!-- TOP wave background layer -->
   <path fill="url(#waveGrad)" opacity="0.08" clip-path="url(#bgClip)">
     <animate attributeName="d"
       values="
@@ -44,8 +40,6 @@
         M0,0 Q100,18 200,8 Q320,0 430,14 Q560,28 680,10 Q780,0 860,12 L860,0 L0,0 Z"
       dur="9s" repeatCount="indefinite"/>
   </path>
-
-  <!-- BOTTOM wave background layer -->
   <path fill="url(#waveGrad)" opacity="0.08" clip-path="url(#bgClip)">
     <animate attributeName="d"
       values="
@@ -54,8 +48,6 @@
         M0,160 Q100,142 200,152 Q320,160 430,146 Q560,132 680,150 Q780,160 860,148 L860,160 L0,160 Z"
       dur="9s" repeatCount="indefinite"/>
   </path>
-
-  <!-- LEFT wave background layer -->
   <path fill="url(#waveGrad)" opacity="0.08" clip-path="url(#bgClip)">
     <animate attributeName="d"
       values="
@@ -64,8 +56,6 @@
         M0,0 Q18,40 8,80 Q0,120 14,160 L0,160 Z"
       dur="9s" repeatCount="indefinite"/>
   </path>
-
-  <!-- RIGHT wave background layer -->
   <path fill="url(#waveGrad)" opacity="0.08" clip-path="url(#bgClip)">
     <animate attributeName="d"
       values="
@@ -74,24 +64,6 @@
         M860,0 Q842,40 852,80 Q860,120 846,160 L860,160 Z"
       dur="9s" repeatCount="indefinite"/>
   </path>
-
-  <!-- Name text -->
-  <text
-    x="430" y="82"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="38" font-weight="700"
-    text-anchor="middle"
-    fill="url(#textGrad)"
-    letter-spacing="1"
-  >Md Jawwad Bin Kaysar Refat</text>
-
-  <!-- Subtitle -->
-  <text
-    x="430" y="118"
-    font-family="'Segoe UI', Arial, sans-serif"
-    font-size="15" font-weight="400"
-    text-anchor="middle"
-    fill="#94a3b8"
-    letter-spacing="0.5"
-  >Aspiring Backend Web Developer  |  Python &amp; Django  |  Cybersecurity Explorer</text>
+  <text x="430" y="82" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700" text-anchor="middle" fill="url(#textGrad)" letter-spacing="1">Md Jawwad Bin Kaysar Refat</text>
+  <text x="430" y="118" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" fill="#94a3b8" letter-spacing="0.5">Aspiring Backend Web Developer  |  Python &amp; Django  |  Cybersecurity Explorer</text>
 </svg>
