@@ -90,12 +90,12 @@ Status      : Open to collaborations & real-world projects 🚀
 
 <div align="center">
 
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app?user=refat7321-51&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=refat7321-51&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 <br/><br/>
 
