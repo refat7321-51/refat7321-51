@@ -17,36 +17,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-🎓 **Computer Science & Technology** Diploma Student
-
-💻 Aspiring **Backend Web Developer** focused on **Python & Django**
-
-🔐 Exploring **Cybersecurity** as a parallel interest
-
-🛠️ I don't just learn theory — I build **real projects** and sharpen **practical problem-solving skills**
-
-📈 *"Consistency over motivation. Skill over excuses."*
-
-<details>
-<summary>📋 More About Me</summary>
-<br/>
-
-```python
-class Refat:
-    name      = "Md Jawwad Bin Kaysar Refat"
-    role      = "Aspiring Backend Web Developer"
-    education = "Computer Science & Technology (Diploma)"
-    focus     = ["Python", "Django", "Web Development"]
-    interest  = ["Backend Dev", "Cybersecurity"]
-    motto     = "Consistency over motivation. Skill over excuses."
-
-    def current_goal(self):
-        return "Building real-world projects with Django 🚀"
+```yaml
+Name        : Md Jawwad Bin Kaysar Refat
+Role        : Aspiring Backend Web Developer
+Education   : Computer Science & Technology (Diploma)
+Location    : Bangladesh 🇧🇩
+Focus       : Python · Django · Web Development
+Side Quest  : Cybersecurity 🔐
+Motto       : "Consistency over motivation. Skill over excuses."
+Status      : Open to collaborations & real-world projects 🚀
 ```
 
-</details>
+<br/>
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>CST Diploma</strong> student — learning by building, not just reading</td>
+  </tr>
+  <tr>
+    <td>⚙️</td>
+    <td>Backend-focused — <strong>Django + Python</strong> is my core stack</td>
+  </tr>
+  <tr>
+    <td>🔐</td>
+    <td>Parallel interest in <strong>Cybersecurity</strong> to strengthen my tech foundation</td>
+  </tr>
+  <tr>
+    <td>📦</td>
+    <td>Already built projects with <strong>HTML, CSS, Django</strong> — always leveling up</td>
+  </tr>
+  <tr>
+    <td>💡</td>
+    <td>I believe in <strong>skill over shortcuts</strong> and <strong>real code over theory</strong></td>
+  </tr>
+</table>
 
 ---
 
