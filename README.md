@@ -1,24 +1,16 @@
-# <div align="center">Md Jawwad Bin Kaysar Refat</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Python+%26+Django+Learner;Backend+%7C+Cybersecurity+Explorer;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+
+# 👋 Md Jawwad Bin Kaysar Refat
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Python+%26+Django+Learner;Backend+%7C+Cybersecurity+Explorer;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1ESkoL8mNe/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg==">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://refat7321-51.github.io/My-Website/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESkoL8mNe/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/re_fa_t_09?igsh=MTBtMnM1MWkyNjF1eg==)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://refat7321-51.github.io/My-Website/)
+
 </div>
 
 ---
@@ -34,8 +26,6 @@
 🛠️ I don't just learn theory — I build **real projects** and sharpen **practical problem-solving skills**
 
 📈 *"Consistency over motivation. Skill over excuses."*
-
----
 
 <details>
 <summary>📋 More About Me</summary>
@@ -60,6 +50,8 @@ class Refat:
 
 ## 🛠️ Skills
 
+<div align="center">
+
 **💬 Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -81,20 +73,24 @@ class Refat:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img width="70%" src="https://nirzak-streak-stats.vercel.app?user=refat7321-51&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=refat7321-51&theme=tokyo-night&hide_border=true&area=true" />
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=refat7321-51&theme=tokyo-night&hide_border=true&area=true&custom_title=Refat's%20Contribution%20Graph" />
 
 </div>
 
@@ -102,11 +98,16 @@ class Refat:
 
 ## 🚀 Currently Working On
 
+<div align="center">
+
+| | Focus |
+|:---:|:---|
 | 🔨 | Building backend projects with **Django** |
-|---|---|
 | 📚 | Deepening knowledge in **Python** & **REST APIs** |
 | 🔐 | Exploring the world of **Cybersecurity** |
 | 🌐 | Improving my **Full Stack** skills step by step |
+
+</div>
 
 ---
 
@@ -116,12 +117,10 @@ class Refat:
 
 <br/>
 
-<a href="https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=refat7321-51&label=Profile+Views&color=7C3AED&style=flat-square" />
+![Profile Views](https://komarev.com/ghpvc/?username=refat7321-51&label=Profile+Views&color=7C3AED&style=flat-square)
 
 </div>
