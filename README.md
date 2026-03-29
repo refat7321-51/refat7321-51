@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,9b30ff,4b0082&height=200&section=header&text=Md%20Jawwad%20Bin%20Kaysar%20Refat&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Python%20%26%20Django%20Learner&descAlignY=58&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend-Focused+Web+Developer+%F0%9F%9A%80;Python+%26+Django+Enthusiast+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%94%A8;Exploring+Cybersecurity+%F0%9F%94%90;Consistency+Over+Motivation+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend-Focused+Web+Developer;Python+%26+Django+Enthusiast;Building+Real-World+Projects;Exploring+Cybersecurity;Consistency+Over+Motivation" alt="Typing SVG" /></a>
 
 </div>
 
@@ -34,18 +34,21 @@ My goal is to become a **professional backend-focused web developer**, with stro
 
 <div align="center">
 
-### 🔹 Languages
+### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🔹 Frameworks & Libraries
+### Frameworks
+
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🔹 Tools & Platforms
+### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
