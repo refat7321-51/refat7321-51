@@ -1,0 +1,64 @@
+<svg width="860" height="160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa">
+        <animate attributeName="stop-color" values="#a78bfa;#60a5fa;#f472b6;#a78bfa" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#60a5fa">
+        <animate attributeName="stop-color" values="#60a5fa;#f472b6;#a78bfa;#60a5fa" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#a78bfa;#60a5fa;#f472b6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="860" height="160" fill="url(#bg)" rx="12"/>
+
+  <!-- Decorative dots -->
+  <circle cx="40" cy="40" r="3" fill="#a78bfa" opacity="0.5"/>
+  <circle cx="820" cy="40" r="3" fill="#60a5fa" opacity="0.5"/>
+  <circle cx="40" cy="120" r="3" fill="#f472b6" opacity="0.5"/>
+  <circle cx="820" cy="120" r="3" fill="#a78bfa" opacity="0.5"/>
+  <circle cx="430" cy="20" r="2" fill="#60a5fa" opacity="0.4"/>
+  <circle cx="200" cy="140" r="2" fill="#f472b6" opacity="0.4"/>
+  <circle cx="660" cy="140" r="2" fill="#a78bfa" opacity="0.4"/>
+
+  <!-- Name text with gradient -->
+  <text
+    x="430"
+    y="85"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="38"
+    font-weight="700"
+    text-anchor="middle"
+    fill="url(#textGrad)"
+    filter="url(#glow)"
+    letter-spacing="1"
+  >Md Jawwad Bin Kaysar Refat</text>
+
+  <!-- Subtitle -->
+  <text
+    x="430"
+    y="120"
+    font-family="'Segoe UI', Arial, sans-serif"
+    font-size="15"
+    font-weight="400"
+    text-anchor="middle"
+    fill="#94a3b8"
+    letter-spacing="0.5"
+  >Aspiring Web Developer  |  Python &amp; Django  |  Cybersecurity Explorer</text>
+</svg>
