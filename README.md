@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=200&section=header&text=Md%20Jawwad%20Bin%20Kaysar%20Refat&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Python%20%26%20Django%20Learner&descAlignY=58&descAlign=50" width="100%"/>
-
-<br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,9b30ff,4b0082&height=200&section=header&text=Md%20Jawwad%20Bin%20Kaysar%20Refat&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Web%20Developer%20%7C%20Python%20%26%20Django%20Learner&descAlignY=58&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend-Focused+Web+Developer+%F0%9F%9A%80;Python+%26+Django+Enthusiast+%F0%9F%90%8D;Building+Real-World+Projects+%F0%9F%94%A8;Exploring+Cybersecurity+%F0%9F%94%90;Consistency+Over+Motivation+%E2%9A%A1)](https://git.io/typing-svg)
 
@@ -60,13 +58,11 @@ My goal is to become a **professional backend-focused web developer**, with stro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="180"/>
+![Refat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff)
 
-<br/><br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=refat7321-51&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="500"/>
+![GitHub Streak](https://streak-stats.demolab.com/?user=refat7321-51&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7)
 
 </div>
 
@@ -87,10 +83,8 @@ My goal is to become a **professional backend-focused web developer**, with stro
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,20&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6a0dad,9b30ff,4b0082&height=100&section=footer)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=refat7321-51&color=A855F7&style=flat-square&label=Profile+Views)
-
-*⭐ থেকে ⭐ — যদি আমার কাজ তোমার ভালো লাগে!*
 
 </div>
