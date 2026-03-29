@@ -3,8 +3,8 @@
 <!-- 
   STEP 1: Upload banner.svg to your repo root (refat7321-51/refat7321-51)
   STEP 2: The line below will show the animated gradient banner
--->
-<img src="https://raw.githubusercontent.com/refat7321-51/refat7321-51/main/banner.svg" width="100%" alt="Md Jawwad Bin Kaysar Refat"/>
+-->[
+<img src="https://raw.githubusercontent.com/refat7321-51/refat7321-51/main/banner.svg" width="100%" alt="Md Jawwad Bin Kaysar Refat"/>](https://raw.githubusercontent.com/refat7321-51/refat7321-51/main/banner.svg?v=2)
 
 <br/><br/>
 
