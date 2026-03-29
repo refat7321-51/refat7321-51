@@ -1,10 +1,12 @@
 <div align="center">
 
-# 👋 Md Jawwad Bin Kaysar Refat
+<!-- 
+  STEP 1: Upload banner.svg to your repo root (refat7321-51/refat7321-51)
+  STEP 2: The line below will show the animated gradient banner
+-->
+<img src="https://raw.githubusercontent.com/refat7321-51/refat7321-51/main/banner.svg" width="100%" alt="Md Jawwad Bin Kaysar Refat"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Web+Developer;Python+%26+Django+Learner;Backend+%7C+Cybersecurity+Explorer;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br/>
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-jawwad-bin-kaysar-refat-943b16397/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ESkoL8mNe/)
@@ -86,7 +88,7 @@ class Refat:
 
 <br/><br/>
 
-<img width="70%" src="https://nirzak-streak-stats.vercel.app?user=refat7321-51&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://nirzak-streak-stats.vercel.app?user=refat7321-51&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
