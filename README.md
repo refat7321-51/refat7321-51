@@ -90,10 +90,7 @@ Status      : Open to collaborations & real-world projects 🚀
 
 <div align="center">
 
-![Refat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=refat7321-51&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=refat7321-51&layout=compact&theme=tokyonight&hide_border=true)
 
-<br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=refat7321-51&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
